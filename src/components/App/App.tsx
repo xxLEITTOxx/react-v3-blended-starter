@@ -1,11 +1,15 @@
 import Section from "../Section/Section";
-import Container from "../Container/Container";
+// import Container from "../Container/Container";
+
+// interface ContainerProps {
+//   children: React.ReactNode;
+// }
 
 export default function App() {
   return (
     <>
       <Section>
-        <Container>{/* Компоненти застосунку */}</Container>
+        {/* <Container></Container> */}
         Home page
       </Section>
     </>
